@@ -1,0 +1,16 @@
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+
+
+	public static void Asd()
+        {
+		int i = 3;
+		if(i = 4)
+		return "Hi!";
+		else
+			return "Bye!";
+	}
+}
